@@ -43,10 +43,6 @@ ul li a:hover {
     background: #fff;
     padding: 0.5rem;
 }
-#icon {
-    color: white;
-    font-size:40px;
-    }
 @media screen and (max-width: 760px){
     div.nav-bar {
         display: flex;
